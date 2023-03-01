@@ -7,4 +7,4 @@ Mã học viên: **22MSE23062**<br />
 Email: hieu22mse23062@fsb.edu.vn
 
 
-
+https://nbviewer.org/urls/minhhieu9800.github.io/MLE501/Assignment_MLE501.ipynb?flush_cache=true
